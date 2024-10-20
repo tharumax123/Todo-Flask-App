@@ -1,7 +1,6 @@
 
 # Todo Application
-
-This is a simple Todo application built as part of a 48-hour assessment. The frontend is developed using Next.js, styled with Shadcn UI components, and the backend is powered by FastAPI. 
+The frontend is developed using Next.js, styled with Shadcn UI components, and the backend is powered by FastAPI. 
 The app allows users to create todos, assign them to users, and manage the completion status of each todo.
 
 ## Features
